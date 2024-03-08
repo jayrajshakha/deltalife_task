@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+
+.bgpic {
+   background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("https://s3-alpha-sig.figma.com/img/69d4/c440/45d5bdb68c2f9f714cdab0c099d17cba?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=R6gZkhwvwGzIdmjTpHArcIlnv5eGHVCFUgdEwL~pRlhLHZln7SCUcLI9PjABsTktkan1tqN2OWkS57P5SfrqBgkO9nGUbynx2VHuWI8Me05I8RkrE6NlPusWnxo9TWdlmjyzjUjKIyavoWiVFeAWVAbUMJzXdyUjnlS5CqHE1kMyxq~TLV7ErO5HCPgmNYJ5MZEIVDY4y39ldozsbH759ISbUm7~bgIODfLUJMNtfbpVB0qui5lQseKoR4KJORErv2mQtX0zrNY6ARQjNSckBg1djvaH~-2Kd7tStS2EJdbKLzi33YEFByXbYgBwLVZjarf8n5zs6g4pToRCbSSftA__");
+
+
+} 
+
+.borderr {
+
+   border-color: rgb(170 170 170);
+}
+
+.cl {
+  background: rgb(255 255 255 / 54%);
+}
+
