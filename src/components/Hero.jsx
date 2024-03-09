@@ -17,9 +17,9 @@ const Hero = () => {
        </div>
        <div className='w-[715px] h-[740px] -rotate-12 flex justify-center mt-4  items-center'>
         <div className='flex' >
-            <img className=' w-[300px] h-[400px] overflow-hidden' src={img1} alt="" />
-            <img className=' w-[200px] h-[500px] overflow-hidden z-0' src={img2} alt="" />
-            <img className=' w-[300px] h-[500px] overflow-hidden' src={img3} alt="" />
+            <img className=' w-[300px] h-[500px] overflow-hidden' src={img1} alt="" />
+            <img className=' w-[255px] h-[592px] overflow-hidden z-0' src={img2} alt="" />
+            <img className=' w-[331px] h-[531px] overflow-hidden' src={img3} alt="" />
         </div>
        </div>
     </div>
